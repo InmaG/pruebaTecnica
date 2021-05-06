@@ -1,0 +1,101 @@
+div.main-detalle{
+    display: flex;
+    background-color: white;
+    flex-direction:column;
+    height: 100vh;
+      padding: 5%;
+}
+div.detalle-articulo{
+    
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+div.detalle-articulo h1{
+    margin: 5px;
+}
+
+img#imagen-jordan{
+    width: 60%;
+}
+div.imagen-jordan img.imagen-jordan{
+    width: 100%;
+   
+}
+.articulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size:12px;
+    
+}
+div.detalle-articulo2{
+    
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+div.detalle-articulo2 h1{
+    margin: 5px;
+}
+
+img#imagen-jordan{
+    width: 60%;
+}
+div.imagen-jordan img.imagen-jordan{
+    width: 100%;
+   
+}
+div.detalle-articulo3{
+    
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+div.detalle-articulo h1{
+    margin: 5px;
+}
+
+img#imagen-jordan{
+    width: 60%;
+}
+div.imagen-jordan img.imagen-jordan{
+    width: 100%;
+   
+}
+
+div.detalle-fabricante{
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top:20%;
+}
+.fabricante {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size:12px;
+    
+    
+}
+div.detalle-fabricante p{
+    width: 15%;
+}
+div.detalle-fabricante h4{
+    width: 15%;
+}
+div.imagen-logonike img.imagen-nike{
+    width: 50%;
+   
+}

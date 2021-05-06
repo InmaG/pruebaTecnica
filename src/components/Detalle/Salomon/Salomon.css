@@ -1,0 +1,113 @@
+div.main-detalle{
+    display: flex;
+    background-color: white;
+    flex-direction:column;
+    height: 100vh;
+      padding: 5%;
+}
+div.detalle-articulo{
+    
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+div.detalle-articulo h1{
+    margin: 5px;
+}
+
+img#imagen-gazela{
+    width: 60%;
+}
+div.imagen-gazela img.imagen-gazela{
+    width: 100%;
+   
+}
+.articulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size:12px;
+    
+}
+div.detalle-articulo2{
+    
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+div.detalle-articulo2 h1{
+    margin: 5px;
+}
+
+img#imagen-gazela{
+    width: 60%;
+}
+div.imagen-gazela img.imagen-gazela{
+    width: 100%;
+   
+}
+div.detalle-articulo3{
+    
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 10%;
+}
+div.detalle-articulo h1{
+    margin: 5px;
+}
+
+img#imagen-salomon{
+    width: 100%;
+}
+div.imagen-salomon img.imagen-salomon{
+    width: 100%;
+   
+}
+
+div.detalle-fabricante{
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top:20%;
+}
+.fabricante {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    font-size:12px;
+    
+    
+}
+div.detalle-fabricante p{
+    width: 15%;
+}
+div.detalle-fabricante h4{
+    width: 15%;
+}
+div.imagen-logonike img.imagen-nike{
+    width: 10%;
+   
+}
+.boton-volver{
+    width: 20%;
+    height: 40px;
+    margin: 20px auto;
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    background-color:grey;
+    box-shadow: 5px 5px 10px -3px black;
+    border: none;
+    border-radius: 5px;
+}
